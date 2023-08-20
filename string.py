@@ -36,7 +36,6 @@
 
 file_name = input ('enter file name ')
 file_name_list = file_name.split('.')
-print(file_name_list[file_name_list.count - 1])
 
 
 
